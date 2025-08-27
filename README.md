@@ -1,5 +1,7 @@
 # sentry-mcp
 
+> vibe-coding!
+
 Sentry MCP 服务，支持自托管 Sentry，自动读取配置，省心省力！
 
 ## 亮点
